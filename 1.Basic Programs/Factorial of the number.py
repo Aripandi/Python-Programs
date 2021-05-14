@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 13 10:15:55 2021
-
-@author: Aripandi
-"""
 #Factorial of the number using recursion
 
 def factorial(n):
