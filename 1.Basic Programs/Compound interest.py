@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 13 10:40:53 2021
-
-@author: Aripandi
-"""
-
 def compound_interest(p,t,r):
     #p-principle
     #t - time period
