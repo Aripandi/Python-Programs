@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 15 07:59:20 2021
-
-@author: Aripandi
-"""
-
 num = int(input("Enter the Number: "))
 
 order = len(str(num))
