@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 15 08:22:52 2021
-
-@author: Aripandi
-"""
-
 def fib(n):
     a = 0
     b = 1
@@ -31,7 +24,7 @@ print(fib(value))
 
 
 #using recursion
-"""def fib(n):
+def fib(n):
     
     if n<0 or n==0:
         print("invalid Input")
@@ -45,4 +38,4 @@ print(fib(value))
     
     
 value = int(input("Enter the Number: "))
-print(fib(value))"""
+print(fib(value))
