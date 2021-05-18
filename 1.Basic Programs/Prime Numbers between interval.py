@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 15 15:43:07 2021
-
-@author: Aripandi
-"""
-
 start = int(input('Enter the starting Number: '))
 end = int(input('Enter the ending Number: '))
 
