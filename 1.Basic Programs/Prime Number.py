@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 15 14:44:36 2021
-
-@author: Aripandi
-"""
-
 n = int(input('Enter the Number: '))
 isPrime = True
 
