@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 16 06:58:32 2021
-
-@author: Aripandi
-"""
-
 def sum_of_arr(arr):
     
     sum = 0
